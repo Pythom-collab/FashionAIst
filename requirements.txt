@@ -1,0 +1,17 @@
+streamlit
+psycopg2-binary
+Pillow
+sqlite3
+io
+json
+uuid
+os
+datetime
+PIL.Image
+numpy
+cv2
+psycopg2.extras
+psycopg2
+rembg
+random
+requests
